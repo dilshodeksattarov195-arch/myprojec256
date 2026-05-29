@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysecrypt",
+        "uuid": 2167296,
+        "checksum": "0dcvrg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
